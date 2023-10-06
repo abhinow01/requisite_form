@@ -15,7 +15,7 @@ import InterviewSettingsForm from "./InterviewSettingsForm";
 import JobDetailsForm from "./JobDetailsForm";
 import RequisitionForm from "./RequisitionDetailsForm";
 import DisplayCard from "./PreviewCard";
-import { PageNumbers } from "../../interface/home";
+import { PageNumbers } from "@src/app/interface/home (1)";
 
 const CustomTab: React.FC<TabProps> = ({ children, ...props }) => {
   return (
